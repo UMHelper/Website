@@ -19,7 +19,7 @@ export default function Home() {
           Learn more on {' '}
           <a style={{
             color:'#0070f3',
-          }} href="https://umhelper.com">Github &rarr;</a> 
+          }} href="https://github.com/UMHelper">Github &rarr;</a> 
         </p>
 
         {/* <p className={styles.description} style={{
