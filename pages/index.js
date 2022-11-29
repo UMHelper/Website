@@ -39,6 +39,14 @@ export default function Home() {
             <p>Whole community at the University of Macau!</p>
           </a>
         </div>
+
+        <p className={styles.description} style={{
+          margin:0,
+          lineHeight:'24px'
+        }}>
+          Join us via <a href="/UMHelper/Feedback-and-Join-Us/issues/new/choose" className='btn btn-primary'>New issue</a>
+        </p>
+
       </main>
 
       <footer className={styles.footer}>
