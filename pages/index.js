@@ -44,7 +44,7 @@ export default function Home() {
           margin:0,
           lineHeight:'24px'
         }}>
-          Join us via <a href="/UMHelper/Feedback-and-Join-Us/issues/new/choose" className='btn btn-primary'>New issue</a>
+          Join us via <a href="http://github.com/UMHelper/Feedback-and-Join-Us/issues/new/choose" className='btn btn-primary'>New issue</a>
         </p>
 
       </main>
